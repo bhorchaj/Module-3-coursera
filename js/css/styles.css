@@ -1,0 +1,8 @@
+.outer {
+    overflow: hidden;
+    border: 1px solid black;
+    background-color: rgb(153, 153, 153);
+    width: 100%;
+    height: 700px;
+    color: black;
+}
