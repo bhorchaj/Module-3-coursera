@@ -1,0 +1,69 @@
+h1 {
+	 margin: 6px;
+	 padding: 10px;
+	 font-size: 30px;
+	color: black;
+	font-family: 'Balsamiq Sans', cursive;
+	font-weight: 900;
+	 
+}
+body {
+	font-size: 16px;
+	color: black;
+	font-family: 'Balsamiq Sans', cursive;
+	font-weight: 700;
+
+}
+
+/**header **/
+
+#header-nav {
+	background-color: #A9A9A9;
+	border-radius:  0;
+	border: 2px solid black;
+	
+}
+
+
+
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	margin-top: 30px;
+}
+
+
+
+/*OUR MENU*/
+#our-menu h1{
+	font-size: 29px; 
+	text-align: center;
+
+}
+
+
+
+.box {
+	background-color: gray;
+	color: black;
+	text-align: center;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+   
+.navbar-toggle {
+	
+	float: right;
+	padding-bottom: -30px
+	
+
+}
+#collapsable-nav {
+	padding-bottom: 50px;
+
+}
+
+
+
+
